@@ -1,0 +1,16 @@
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+
+# 中间产物
+_work/
+_audio/
+_ocr*/
+_pages/
+*.log
