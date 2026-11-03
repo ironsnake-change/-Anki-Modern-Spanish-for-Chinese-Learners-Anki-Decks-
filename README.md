@@ -2,6 +2,8 @@
 
 **Modern Spanish Anki Decks · 《现代西班牙语》词汇与变位牌组**
 
+> 卡片改版：词性用西语缩写（m. / f. / adj. / tr.），释义逐条分行，例句中的目标词标红。
+
 `Anki` `Spanish` `Vocabulary` `DELE` `专四` `西语专四` `现代西班牙语` `词汇` `动词变位`
 
 把《现代西班牙语》学生用书 1–4 册的词表做成可直接导入 Anki 的分课牌组。每个词条都经过 RAE 词典与 Wiktionary 交叉核对。
