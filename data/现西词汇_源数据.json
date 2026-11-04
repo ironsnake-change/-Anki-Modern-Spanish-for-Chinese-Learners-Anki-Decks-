@@ -85,7 +85,7 @@
   "pos_abbr": "adj.",
   "pos_full": "形容词",
   "defs": [
-   "智利人"
+   "智利的；智利人"
   ],
   "ex": "",
   "exzh": "",
@@ -139,7 +139,7 @@
   "pos_abbr": "adj.",
   "pos_full": "形容词",
   "defs": [
-   "古巴人"
+   "古巴的；古巴人"
   ],
   "ex": "",
   "exzh": "",
@@ -264,13 +264,13 @@
  },
  {
   "hw": "eres",
-  "pos_abbr": "f.",
-  "pos_full": "阴性名词",
+  "pos_abbr": "v.",
+  "pos_full": "动词",
   "defs": [
-   "你是"
+   "你是（ser 第二人称单数）"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Eres la chica más hermosa que jamás he visto.",
+  "exzh": "你是我见过的最美的姑娘。",
   "book": 1,
   "unit": 1,
   "lv": "C",
@@ -379,7 +379,7 @@
   "pos_abbr": "art.",
   "pos_full": "冠词",
   "defs": [
-   "（复数阴性定冠词）"
+   "阴性复数定冠词"
   ],
   "ex": "A él le gustan las matemáticas, pero a mí no.",
   "exzh": "他喜欢数学，但我不喜欢。",
@@ -395,10 +395,10 @@
   "pos_abbr": "art.",
   "pos_full": "冠词",
   "defs": [
-   "《宫女》"
+   "阴性复数定冠词"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "A él le gustan las matemáticas, pero a mí no.",
+  "exzh": "他喜欢数学，我不喜欢。",
   "book": 1,
   "unit": 1,
   "lv": "C",
@@ -413,8 +413,8 @@
   "defs": [
    "名叫，叫做（自复动词）"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "¿No has oído que te acabo de llamar?",
+  "exzh": "你没听到我刚叫你吗？",
   "book": 1,
   "unit": 1,
   "lv": "B",
@@ -445,10 +445,10 @@
  },
  {
   "hw": "manolo",
-  "pos_abbr": "m.",
-  "pos_full": "阳性名词",
+  "pos_abbr": "n.p.",
+  "pos_full": "专名",
   "defs": [
-   "马诺罗"
+   "马诺罗（男子名）"
   ],
   "ex": "",
   "exzh": "",
@@ -509,10 +509,10 @@
  },
  {
   "hw": "mucho gusto",
-  "pos_abbr": "m.",
-  "pos_full": "阳性名词",
+  "pos_abbr": "loc.",
+  "pos_full": "短语",
   "defs": [
-   "很高兴（认识你/您/你们）"
+   "很高兴（认识你）"
   ],
   "ex": "",
   "exzh": "",
@@ -573,10 +573,10 @@
  },
  {
   "hw": "paco",
-  "pos_abbr": "adj.",
-  "pos_full": "形容词",
+  "pos_abbr": "n.p.",
+  "pos_full": "专名",
   "defs": [
-   "帕科"
+   "帕科（男子名）"
   ],
   "ex": "",
   "exzh": "",
@@ -592,7 +592,7 @@
   "pos_abbr": "adj.",
   "pos_full": "形容词",
   "defs": [
-   "巴拿马人"
+   "巴拿马的；巴拿马人"
   ],
   "ex": "",
   "exzh": "",
@@ -717,10 +717,10 @@
  },
  {
   "hw": "susana",
-  "pos_abbr": "adj.",
-  "pos_full": "形容词",
+  "pos_abbr": "n.p.",
+  "pos_full": "专名",
   "defs": [
-   "苏萨娜"
+   "苏萨娜（女子名）"
   ],
   "ex": "",
   "exzh": "",
@@ -880,7 +880,7 @@
   "pos_abbr": "adj.",
   "pos_full": "形容词",
   "defs": [
-   "阿根廷人"
+   "阿根廷的；阿根廷人"
   ],
   "ex": "",
   "exzh": "",
@@ -942,13 +942,13 @@
  },
  {
   "hw": "carlos",
-  "pos_abbr": "m.",
-  "pos_full": "阳性名词",
+  "pos_abbr": "n.p.",
+  "pos_full": "专名",
   "defs": [
-   "卡洛斯"
+   "卡洛斯（男子名）"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "El otro día estuve con Carlos y un amigo suyo.",
+  "exzh": "前几天我和卡洛斯还有他的一个朋友在一起。",
   "book": 1,
   "unit": 2,
   "lv": "A",
@@ -1138,7 +1138,7 @@
   "pos_abbr": "n.p.",
   "pos_full": "专名",
   "defs": [
-   "费尔南多"
+   "费尔南多（男子名）"
   ],
   "ex": "",
   "exzh": "",
@@ -1186,8 +1186,7 @@
   "pos_abbr": "adj.",
   "pos_full": "形容词",
   "defs": [
-   "拉丁美洲的",
-   "拉丁美洲人"
+   "拉丁美洲的；拉丁美洲人"
   ],
   "ex": "",
   "exzh": "",
@@ -1453,7 +1452,7 @@
   "pos_abbr": "n.p.",
   "pos_full": "专名",
   "defs": [
-   "拉米雷斯"
+   "拉米雷斯（姓）"
   ],
   "ex": "",
   "exzh": "",
@@ -1608,10 +1607,10 @@
  },
  {
   "hw": "víctor",
-  "pos_abbr": "m.",
-  "pos_full": "阳性名词",
+  "pos_abbr": "n.p.",
+  "pos_full": "专名",
   "defs": [
-   "维克多"
+   "维克多（男子名）"
   ],
   "ex": "",
   "exzh": "",
@@ -1792,7 +1791,7 @@
   "pos_abbr": "m.",
   "pos_full": "阳性名词",
   "defs": [
-   "小学"
+   "学校；（中小学）"
   ],
   "ex": "Conozco a varios estudiantes de este colegio.",
   "exzh": "我认识这个学校的几个学生。",
@@ -1808,10 +1807,10 @@
   "pos_abbr": "m.",
   "pos_full": "阳性名词",
   "defs": [
-   "学生公寓"
+   "学校；（中小学）"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Conozco a varios estudiantes de este colegio.",
+  "exzh": "我认识这所学校的几个学生。",
   "book": 1,
   "unit": 3,
   "lv": "A",
@@ -1853,10 +1852,10 @@
  },
  {
   "hw": "cuarto de bario",
-  "pos_abbr": "m.",
-  "pos_full": "阳性名词",
+  "pos_abbr": "loc.",
+  "pos_full": "短语",
   "defs": [
-   "卫生间"
+   "卫生间（cuarto de baño）"
   ],
   "ex": "",
   "exzh": "",
@@ -2164,8 +2163,8 @@
   "defs": [
    "送去，带去"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Ellos llevan viendo esa película por horas.",
+  "exzh": "他们看那部电影已经看了好几个小时了。",
   "book": 1,
   "unit": 3,
   "lv": "R",
@@ -2339,8 +2338,8 @@
   "defs": [
    "秘鲁"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Perú es el tercer país más grande de América del Sur después de Brasil y Argentina.",
+  "exzh": "秘鲁是南美洲仅次于巴西和阿根廷的第三大国。",
   "book": 1,
   "unit": 3,
   "lv": "R",
@@ -2468,8 +2467,8 @@
  },
  {
   "hw": "sala de estar",
-  "pos_abbr": "intr.",
-  "pos_full": "不及物动词",
+  "pos_abbr": "loc.",
+  "pos_full": "短语",
   "defs": [
    "客厅"
   ],
@@ -2494,8 +2493,8 @@
   "defs": [
    "中学"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Tom leyó Las viñas de la ira en la secundaria.",
+  "exzh": "汤姆在中学时读过《愤怒的葡萄》。",
   "book": 1,
   "unit": 3,
   "lv": "A",
@@ -2747,8 +2746,8 @@
   "defs": [
    "欢乐，欣喜"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Lágrimas de alegría corrían por sus mejillas.",
+  "exzh": "喜悦的泪水顺着她的脸颊流下。",
   "book": 1,
   "unit": 4,
   "lv": "A",
@@ -3351,10 +3350,10 @@
  },
  {
   "hw": "no... hasta",
-  "pos_abbr": "prep.",
-  "pos_full": "介词",
+  "pos_abbr": "loc.",
+  "pos_full": "短语",
   "defs": [
-   "直到一才"
+   "直到……才"
   ],
   "ex": "",
   "exzh": "",
@@ -3420,8 +3419,8 @@
   "defs": [
    "新的"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Quieren comprar una casa y un coche nuevos.",
+  "exzh": "他们想买一栋新房子和一辆新车。",
   "book": 1,
   "unit": 4,
   "lv": "C",
@@ -3575,8 +3574,8 @@
   "defs": [
    "准备"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Ayudo a mi madre a preparar la comida.",
+  "exzh": "我帮妈妈做饭。",
   "book": 1,
   "unit": 4,
   "lv": "B",
@@ -3691,8 +3690,8 @@
   "defs": [
    "呼吸"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "¿Alguna vez has respirado aire puro?",
+  "exzh": "你呼吸过纯净的空气吗？",
   "book": 1,
   "unit": 4,
   "lv": "A",
@@ -3786,10 +3785,10 @@
  },
  {
   "hw": "tener que + in",
-  "pos_abbr": "f.",
-  "pos_full": "阴性名词",
+  "pos_abbr": "loc.",
+  "pos_full": "短语",
   "defs": [
-   "必须"
+   "必须（tener que + 原形）"
   ],
   "ex": "",
   "exzh": "",
@@ -3930,10 +3929,10 @@
  },
  {
   "hw": "volver a + in",
-  "pos_abbr": "f.",
-  "pos_full": "阴性名词",
+  "pos_abbr": "loc.",
+  "pos_full": "短语",
   "defs": [
-   "再一次，重新"
+   "再一次，重新（volver a + 原形）"
   ],
   "ex": "",
   "exzh": "",
@@ -4330,10 +4329,10 @@
  },
  {
   "hw": "de segundo",
-  "pos_abbr": "m.",
-  "pos_full": "阳性名词",
+  "pos_abbr": "loc.",
+  "pos_full": "短语",
   "defs": [
-   "第二道"
+   "第二道（菜）"
   ],
   "ex": "",
   "exzh": "",
@@ -4460,8 +4459,8 @@
   "defs": [
    "祝贺"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "¡Te felicito!",
+  "exzh": "祝贺你！",
   "book": 1,
   "unit": 5,
   "lv": "B",
@@ -4561,8 +4560,8 @@
   "defs": [
    "到达"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Cuando llamé, ella acababa de llegar a casa.",
+  "exzh": "我打电话的时候，她刚到家。",
   "book": 1,
   "unit": 5,
   "lv": "R",
@@ -4696,10 +4695,10 @@
  },
  {
   "hw": "ponerse a + in",
-  "pos_abbr": "f.",
-  "pos_full": "阴性名词",
+  "pos_abbr": "loc.",
+  "pos_full": "短语",
   "defs": [
-   "开始做．"
+   "开始做（ponerse a + 原形）"
   ],
   "ex": "",
   "exzh": "",
@@ -4810,8 +4809,8 @@
   "defs": [
    "推荐"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "El profesor me recomendó leer a Shakespeare.",
+  "exzh": "老师推荐我读莎士比亚。",
   "book": 1,
   "unit": 5,
   "lv": "B",
@@ -4865,8 +4864,8 @@
   "defs": [
    "坐下"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "¿Dónde te quieres sentar?",
+  "exzh": "你想坐在哪里？",
   "book": 1,
   "unit": 5,
   "lv": "A",
@@ -4883,8 +4882,8 @@
  },
  {
   "hw": "sopa de",
-  "pos_abbr": "loc.",
-  "pos_full": "短语",
+  "pos_abbr": "f.",
+  "pos_full": "阴性名词",
   "defs": [
    "汤"
   ],
@@ -5032,10 +5031,10 @@
  },
  {
   "hw": "acabar de + in",
-  "pos_abbr": "f.",
-  "pos_full": "阴性名词",
+  "pos_abbr": "loc.",
+  "pos_full": "短语",
   "defs": [
-   "刚刚"
+   "刚刚（acabar de + 原形）"
   ],
   "ex": "",
   "exzh": "",
@@ -5069,8 +5068,8 @@
   "defs": [
    "整理好的"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "¿Cuán pronto podría tener mis zapatos arreglados?",
+  "exzh": "我的鞋最快什么时候能修好？",
   "book": 1,
   "unit": 6,
   "lv": "A",
@@ -5407,8 +5406,8 @@
   "defs": [
    "清洗"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "¿Por qué no te lavas las manos?",
+  "exzh": "你为什么不去洗手？",
   "book": 1,
   "unit": 6,
   "lv": "R",
@@ -5807,8 +5806,8 @@
   "defs": [
    "感觉"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Empezó a sentir miedo.",
+  "exzh": "他开始感到害怕。",
   "book": 1,
   "unit": 6,
   "lv": "B",
@@ -6416,8 +6415,8 @@
   "defs": [
    "装满的"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "El mundo está lleno de médicos incompetentes.",
+  "exzh": "这个世界上到处都是不称职的医生。",
   "book": 1,
   "unit": 7,
   "lv": "R",
@@ -6899,8 +6898,8 @@
   "defs": [
    "题目"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "El título del libro debería estar en cursiva.",
+  "exzh": "这本书的书名应该用斜体。",
   "book": 1,
   "unit": 7,
   "lv": "A",
@@ -7391,8 +7390,8 @@
   "defs": [
    "喊，叫"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Ella gritó cuando vio la serpiente.",
+  "exzh": "她看到蛇时尖叫了一声。",
   "book": 1,
   "unit": 8,
   "lv": "A",
@@ -7702,8 +7701,8 @@
   "defs": [
    "打破"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Él se rompió dos costillas en un accidente.",
+  "exzh": "他在一次事故中断了两根肋骨。",
   "book": 1,
   "unit": 8,
   "lv": "A",
@@ -7839,7 +7838,7 @@
   "pos_abbr": "loc.",
   "pos_full": "短语",
   "defs": [
-   "且看是不是"
+   "看看是否"
   ],
   "ex": "",
   "exzh": "",
@@ -8174,8 +8173,8 @@
   "defs": [
    "会见，见面"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Trata de mirar algunas entrevistas recientes.",
+  "exzh": "试着看几篇最近的访谈。",
   "book": 1,
   "unit": 9,
   "lv": "A",
@@ -8470,8 +8469,8 @@
   "defs": [
    "迷路"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Ella verdaderamente quiere perder peso.",
+  "exzh": "她真的很想减肥。",
   "book": 1,
   "unit": 9,
   "lv": "B",
@@ -9124,8 +9123,8 @@
   "defs": [
    "委托"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "María ya ha recibido muchos encargos.",
+  "exzh": "玛丽亚已经接到很多委托了。",
   "book": 1,
   "unit": 10,
   "lv": "A",
@@ -9437,8 +9436,8 @@
   "defs": [
    "试"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Me gustaría probar este nuevo modelo antes de comprarlo.",
+  "exzh": "我想在买之前试一下这个新款。",
   "book": 1,
   "unit": 10,
   "lv": "R",
@@ -9455,10 +9454,10 @@
  },
  {
   "hw": "quedarle a uno",
-  "pos_abbr": "loc.",
-  "pos_full": "短语",
+  "pos_abbr": "prnl.",
+  "pos_full": "自复动词",
   "defs": [
-   "（某人）穿戴"
+   "适合（某人）穿戴"
   ],
   "ex": "",
   "exzh": "",
@@ -9527,10 +9526,10 @@
  },
  {
   "hw": "sentarle a uno",
-  "pos_abbr": "loc.",
-  "pos_full": "短语",
+  "pos_abbr": "intr.",
+  "pos_full": "不及物动词",
   "defs": [
-   "（某物）与"
+   "（衣物）合身；适合"
   ],
   "ex": "",
   "exzh": "",
@@ -10364,8 +10363,8 @@
   "defs": [
    "恰恰"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Ustedes no saben precisamente dónde nacieron.",
+  "exzh": "你们并不确切知道自己出生在哪里。",
   "book": 1,
   "unit": 11,
   "lv": "A",
@@ -10711,8 +10710,8 @@
   "defs": [
    "抛，扔"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "No arrojes perlas a los cerdos.",
+  "exzh": "不要把珍珠丢给猪。",
   "book": 1,
   "unit": 12,
   "lv": "B",
@@ -10753,8 +10752,8 @@
   "defs": [
    "样子，面貌"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Japón y China son diferentes en varios aspectos.",
+  "exzh": "日本和中国在好几个方面都不一样。",
   "book": 1,
   "unit": 12,
   "lv": "A",
@@ -11761,8 +11760,8 @@
   "defs": [
    "交谈"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Conversamos el plan con él.",
+  "exzh": "我们和他商量了这个计划。",
   "book": 1,
   "unit": 13,
   "lv": "B",
@@ -12063,8 +12062,8 @@
   "defs": [
    "提供信息"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "No tuvimos tiempo para terminar nuestro informe.",
+  "exzh": "我们没时间把报告写完。",
   "book": 1,
   "unit": 13,
   "lv": "B",
@@ -12792,8 +12791,8 @@
   "defs": [
    "告别"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Las despedidas siempre son tristes.",
+  "exzh": "告别总是令人伤感。",
   "book": 1,
   "unit": 14,
   "lv": "A",
@@ -12928,8 +12927,8 @@
   "defs": [
    "羡慕，嫉妒"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Todos envidian mi carro nuevo.",
+  "exzh": "大家都羡慕我的新车。",
   "book": 1,
   "unit": 14,
   "lv": "R",
@@ -12997,8 +12996,8 @@
   "defs": [
    "毕业"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Tengo la sensación de que Tom no se va a graduar este año.",
+  "exzh": "我觉得汤姆今年毕不了业。",
   "book": 1,
   "unit": 14,
   "lv": "B",
@@ -13018,8 +13017,8 @@
   "defs": [
    "想象"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "¿Puedes imaginar que él conduzca un carro tan bonito?",
+  "exzh": "你能想象他开那么漂亮的车吗？",
   "book": 1,
   "unit": 14,
   "lv": "B",
@@ -13740,8 +13739,8 @@
    "教育",
    "教授"
   ],
-  "ex": "Near-synonym: pedagogía",
-  "exzh": "近义词： 教育学",
+  "ex": "La enseñanza de idiomas requiere paciencia.",
+  "exzh": "语言教学需要耐心。",
   "book": 1,
   "unit": 15,
   "lv": "B",
@@ -14447,8 +14446,8 @@
   "defs": [
    "换"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Tienes que cambiar de tren en Shibuya.",
+  "exzh": "你必须在涩谷换乘。",
   "book": 1,
   "unit": 16,
   "lv": "B",
@@ -15113,8 +15112,8 @@
    "使干",
    "自干"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Él secó sus ropas mojadas junto al fuego.",
+  "exzh": "他在火边烤干了湿衣服。",
   "book": 1,
   "unit": 16,
   "lv": "B",
@@ -15580,8 +15579,8 @@
    "拦住",
    "停下，止步"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "¿Me podrías despertar mañana a la misma hora?",
+  "exzh": "明天能在同一时间叫醒我吗？",
   "book": 2,
   "unit": 1,
   "lv": "B",
@@ -16235,8 +16234,8 @@
   "defs": [
    "报告会，讲座"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Ella lo conoció en una conferencia en Boston.",
+  "exzh": "她是在波士顿的一次会议上认识他的。",
   "book": 2,
   "unit": 2,
   "lv": "A",
@@ -16384,8 +16383,8 @@
   "defs": [
    "要求"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "El control de una clase exige todas las habilidades del profesor.",
+  "exzh": "管理一个班级需要教师具备各种能力。",
   "book": 2,
   "unit": 2,
   "lv": "B",
@@ -16501,8 +16500,8 @@
   "defs": [
    "表示遗憾"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Lamento interrumpiros, pero ya es muy tarde.",
+  "exzh": "很抱歉打断你们，不过现在已经很晚了。",
   "book": 2,
   "unit": 2,
   "lv": "B",
@@ -17098,8 +17097,8 @@
   "defs": [
    "连接"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "¿Cómo era la estructura del ensayo? ¿Qué estaba conectado y cómo?",
+  "exzh": "那篇文章的结构是怎样的？各部分是怎么衔接的？",
   "book": 2,
   "unit": 3,
   "lv": "B",
@@ -17204,8 +17203,8 @@
   "defs": [
    "区"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "En los suburbios, los distritos postales cubren una zona amplia.",
+  "exzh": "在郊区，邮政区覆盖的范围很大。",
   "book": 2,
   "unit": 3,
   "lv": "A",
@@ -17687,8 +17686,8 @@
   "defs": [
    "房租"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "El alquiler de este piso es demasiado alto.",
+  "exzh": "这套公寓的租金太高了。",
   "book": 2,
   "unit": 4,
   "lv": "A",
@@ -17855,8 +17854,8 @@
   "defs": [
    "种类"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Se cree una especie de vampiresa arrolladora.",
+  "exzh": "她自认为是个魅力十足的女人。",
   "book": 2,
   "unit": 4,
   "lv": "C",
@@ -17873,8 +17872,8 @@
    "来源",
    "盘（菜）"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Pronto voy a perder esta fuente de proteínas.",
+  "exzh": "我很快就失去这个蛋白质来源了。",
   "book": 2,
   "unit": 4,
   "lv": "A",
@@ -18065,8 +18064,8 @@
   "defs": [
    "分摊"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "¿Reparten los domingos?",
+  "exzh": "你们周日送货吗？",
   "book": 2,
   "unit": 4,
   "lv": "B",
@@ -18118,8 +18117,8 @@
   "defs": [
    "劝告"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "El doctor me aconsejó dejar de fumar.",
+  "exzh": "医生建议我戒烟。",
   "book": 2,
   "unit": 5,
   "lv": "R",
@@ -18570,8 +18569,8 @@
   "defs": [
    "《国民报》"
   ],
-  "ex": "Él nació en el siglo XIX.",
-  "exzh": "他生于19世纪。",
+  "ex": "El Nacional publicó la noticia ayer.",
+  "exzh": "《国民报》昨天刊登了这条消息。",
   "book": 2,
   "unit": 5,
   "lv": "A",
@@ -18884,8 +18883,8 @@
   "defs": [
    "时候不早了"
   ],
-  "ex": "Se hace tarde.",
-  "exzh": "天色已晚了。",
+  "ex": "Se hace tarde, tenemos que volver.",
+  "exzh": "天晚了，我们得回去了。",
   "book": 2,
   "unit": 5,
   "lv": "A",
@@ -19028,8 +19027,8 @@
   "defs": [
    "不高兴"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Lo que más me molestó fue haber sido engañado.",
+  "exzh": "最让我恼火的是被骗了。",
   "book": 2,
   "unit": 5,
   "lv": "A",
@@ -19129,8 +19128,8 @@
   "defs": [
    "游泳池"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Las piscinas se suelen pintar de color azul claro.",
+  "exzh": "游泳池通常漆成浅蓝色。",
   "book": 2,
   "unit": 5,
   "lv": "A",
@@ -19729,8 +19728,8 @@
   "defs": [
    "带子"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Compré varias cintas de cantantes populares.",
+  "exzh": "我买了几盘流行歌手的磁带。",
   "book": 2,
   "unit": 6,
   "lv": "A",
@@ -19923,8 +19922,8 @@
   "defs": [
    "优雅的，有风度的"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "De no ser tan ocioso, sería un tipo elegante.",
+  "exzh": "要不是这么懒，他会是个挺有品位的家伙。",
   "book": 2,
   "unit": 6,
   "lv": "A",
@@ -20564,8 +20563,8 @@
   "defs": [
    "躲开"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Aparte de algo de fruta, él no ha comido nada.",
+  "exzh": "除了吃点水果，他什么都没吃。",
   "book": 2,
   "unit": 7,
   "lv": "B",
@@ -20728,8 +20727,8 @@
   "defs": [
    "躺下"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Empiezo a echar de menos a mi novia.",
+  "exzh": "我开始想念我的女朋友了。",
   "book": 2,
   "unit": 7,
   "lv": "B",
@@ -20790,8 +20789,8 @@
   "defs": [
    "惊呼"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "—¡Esto es lo que estaba buscando! —exclamó él.",
+  "exzh": "“这正是我要找的！”他喊道。",
   "book": 2,
   "unit": 7,
   "lv": "R",
@@ -20811,8 +20810,8 @@
   "defs": [
    "假装"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Ese estudiante a veces finge estar enfermo.",
+  "exzh": "那个学生有时候装作生病。",
   "book": 2,
   "unit": 7,
   "lv": "B",
@@ -20864,8 +20863,8 @@
   "defs": [
    "爪子"
   ],
-  "ex": "Holonym: pata",
-  "exzh": "",
+  "ex": "El águila atrapó al conejo con sus garras.",
+  "exzh": "老鹰用爪子抓住了兔子。",
   "book": 2,
   "unit": 7,
   "lv": "B",
@@ -20896,8 +20895,8 @@
   "defs": [
    "荣幸"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Sacrificaron una cabra en honor a los dioses.",
+  "exzh": "他们为敬神而献祭了一只山羊。",
   "book": 2,
   "unit": 7,
   "lv": "C",
@@ -20945,8 +20944,8 @@
   "defs": [
    "秘密"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Ella le preguntó por qué lloraba, pero él no respondió.",
+  "exzh": "她问他为什么哭，但他没有回答。",
   "book": 2,
   "unit": 7,
   "lv": "R",
@@ -21325,10 +21324,10 @@
  },
  {
   "hw": "tratar de + in",
-  "pos_abbr": "f.",
-  "pos_full": "阴性名词",
+  "pos_abbr": "loc.",
+  "pos_full": "短语",
   "defs": [
-   "试图"
+   "试图（tratar de + 原形）"
   ],
   "ex": "",
   "exzh": "",
@@ -21545,8 +21544,8 @@
   "defs": [
    "依靠"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "No te apoyes en la reja del balcón, es peligroso.",
+  "exzh": "别靠在阳台栏杆上，很危险。",
   "book": 2,
   "unit": 8,
   "lv": "B",
@@ -21956,8 +21955,8 @@
   "defs": [
    "不耐烦"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Hoy papá está de un ánimo impaciente.",
+  "exzh": "今天爸爸脾气很急躁。",
   "book": 2,
   "unit": 8,
   "lv": "R",
@@ -21977,8 +21976,8 @@
   "defs": [
    "即使，哪怕"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Nancy me contó acerca del incendio.",
+  "exzh": "南希跟我讲了那场火灾的事。",
   "book": 2,
   "unit": 8,
   "lv": "B",
@@ -22073,8 +22072,8 @@
   "defs": [
    "下雨"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "El mes pasado llovió mucho.",
+  "exzh": "上个月下了很多雨。",
   "book": 2,
   "unit": 8,
   "lv": "R",
@@ -22508,8 +22507,8 @@
   "defs": [
    "运输"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Las arterias transportan sangre oxigenada desde el corazón a los tejidos.",
+  "exzh": "动脉把含氧的血液从心脏输送到各处组织。",
   "book": 2,
   "unit": 8,
   "lv": "B",
@@ -22566,8 +22565,8 @@
   "defs": [
    "倒塌"
   ],
-  "ex": "Después del divorcio se vino abajo.",
-  "exzh": "离婚后就分崩离析了。",
+  "ex": "El viejo muro se vino abajo con la lluvia.",
+  "exzh": "那堵旧墙在雨里塌了下来。",
   "book": 2,
   "unit": 8,
   "lv": "R",
@@ -22662,8 +22661,8 @@
   "defs": [
    "代办处"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "¿Dónde está la agencia de viajes más cercana?",
+  "exzh": "最近的旅行社在哪里？",
   "book": 2,
   "unit": 9,
   "lv": "A",
@@ -22907,8 +22906,8 @@
    "实施",
    "办理"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Efectuamos ese plan.",
+  "exzh": "我们执行了那个计划。",
   "book": 2,
   "unit": 9,
   "lv": "R",
@@ -23086,8 +23085,8 @@
    "动作",
    "活动"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "No hagas movimientos bruscos cuando conduces.",
+  "exzh": "开车时不要做突然的动作。",
   "book": 2,
   "unit": 9,
   "lv": "A",
@@ -23180,8 +23179,8 @@
   "defs": [
    "显而易见地，显然"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Él puede hablar francés, y obviamente inglés.",
+  "exzh": "他会说法语，显然也会说英语。",
   "book": 2,
   "unit": 9,
   "lv": "A",
@@ -23250,8 +23249,8 @@
   "defs": [
    "出发"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Me alegro de que tu equipo ganase la partida.",
+  "exzh": "我很高兴你们队赢了这一局。",
   "book": 2,
   "unit": 9,
   "lv": "A",
@@ -23266,8 +23265,8 @@
   "defs": [
    "出发"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Gente buena puede encontrarse en cualquier parte.",
+  "exzh": "好人到处都能遇到。",
   "book": 2,
   "unit": 9,
   "lv": "A",
@@ -23974,8 +23973,8 @@
   "defs": [
    "致力于，从事"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Planeo dedicar unas horas cada día a estudiar inglés.",
+  "exzh": "我打算每天花几个小时学英语。",
   "book": 2,
   "unit": 10,
   "lv": "B",
@@ -24132,8 +24131,8 @@
   "defs": [
    "精神"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "La ceremonia es para alejar espíritus malos.",
+  "exzh": "这个仪式是为了驱赶恶灵。",
   "book": 2,
   "unit": 10,
   "lv": "A",
@@ -24315,8 +24314,8 @@
    "填补",
    "使充满"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Llena la tetera con agua hirviendo por favor.",
+  "exzh": "请把茶壶灌满开水。",
   "book": 2,
   "unit": 10,
   "lv": "R",
@@ -24582,8 +24581,8 @@
   "defs": [
    "志愿"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Sonia hizo el trabajo por su propia voluntad.",
+  "exzh": "索尼娅是自愿做这份工作的。",
   "book": 2,
   "unit": 10,
   "lv": "A",
@@ -24630,8 +24629,8 @@
   "defs": [
    "接受，接纳"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Admito que esta probablemente no es la mejor forma de hacerlo.",
+  "exzh": "我承认这可能不是最好的做法。",
   "book": 2,
   "unit": 11,
   "lv": "A",
@@ -25145,8 +25144,8 @@
   "defs": [
    "出生"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Visité la casa en que nació Shakespeare.",
+  "exzh": "我参观过莎士比亚出生的那栋房子。",
   "book": 2,
   "unit": 11,
   "lv": "B",
@@ -26005,8 +26004,8 @@
   "defs": [
    "瓦斯，煤气"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Quiero que mi coche también funcione con gas.",
+  "exzh": "我希望我的车也能用天然气。",
   "book": 2,
   "unit": 12,
   "lv": "A",
@@ -26276,8 +26275,8 @@
   "defs": [
    "负责，操持"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Entonces, ¿quién se va a ocupar de cuidar a tu gato?",
+  "exzh": "那谁负责照顾你的猫？",
   "book": 2,
   "unit": 12,
   "lv": "B",
@@ -26430,8 +26429,8 @@
   "defs": [
    "谣滚乐"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "A este brebaje con hielo Sonia lo llama zumo de ectoplasma on the rocks.",
+  "exzh": "索尼娅把这种加冰的混合饮料叫做“加冰的灵质果汁”。",
   "book": 2,
   "unit": 12,
   "lv": "A",
@@ -26592,8 +26591,8 @@
   "defs": [
    "进攻，攻击"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Anacleto atacó furibundo a los manifestantes.",
+  "exzh": "阿纳克莱托怒气冲冲地攻击了示威者。",
   "book": 2,
   "unit": 13,
   "lv": "A",
@@ -26717,8 +26716,8 @@
   "defs": [
    "防卫，保卫"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Supuestamente ella le mató en defensa propia.",
+  "exzh": "据说她是出于自卫杀了他。",
   "book": 2,
   "unit": 13,
   "lv": "A",
@@ -26834,8 +26833,8 @@
   "defs": [
    "准确的"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Para ser exactos, Inglaterra no incluye Gales.",
+  "exzh": "确切地说，英格兰不包括威尔士。",
   "book": 2,
   "unit": 13,
   "lv": "A",
@@ -26866,8 +26865,8 @@
   "defs": [
    "总督，省长"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Hubo una vez un cruel gobernador en el país.",
+  "exzh": "从前这个国家有个残暴的总督。",
   "book": 2,
   "unit": 13,
   "lv": "A",
@@ -26882,8 +26881,8 @@
   "defs": [
    "规则"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "El líder gobernó su país por más de 50 años.",
+  "exzh": "这位领导人统治他的国家五十多年。",
   "book": 2,
   "unit": 13,
   "lv": "B",
@@ -26905,8 +26904,8 @@
   "defs": [
    "政府"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Desde 1856 ambos gobiernos se reparten la posesión de la isla.",
+  "exzh": "自1856年起，两国政府瓜分该岛的占有权。",
   "book": 2,
   "unit": 13,
   "lv": "C",
@@ -26937,8 +26936,8 @@
   "defs": [
    "击打"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Ese coche rojo golpeó a la furgoneta azul.",
+  "exzh": "那辆红车撞上了蓝色的厢式货车。",
   "book": 2,
   "unit": 13,
   "lv": "A",
@@ -26990,8 +26989,8 @@
   "defs": [
    "使受伤"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Lamento haberle herido.",
+  "exzh": "很抱歉伤害了你。",
   "book": 2,
   "unit": 13,
   "lv": "B",
@@ -27039,8 +27038,8 @@
   "defs": [
    "该死的"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "¡Ese maldito fantasma que no me deja dormir!",
+  "exzh": "这个该死的鬼魂害我睡不着觉！",
   "book": 2,
   "unit": 13,
   "lv": "C",
@@ -27545,8 +27544,8 @@
   "defs": [
    "军队"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Napoleón dirigió a sus ejércitos hacia Rusia.",
+  "exzh": "拿破仑率领他的军队开往俄国。",
   "book": 2,
   "unit": 14,
   "lv": "C",
@@ -27631,8 +27630,8 @@
   "defs": [
    "投身做．"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Fui el último en entregar el examen.",
+  "exzh": "我是最后一个交卷的。",
   "book": 2,
   "unit": 14,
   "lv": "B",
@@ -27940,8 +27939,8 @@
   "defs": [
    "侮辱，冒犯"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Fui ofendido.",
+  "exzh": "我受到冒犯了。",
   "book": 2,
   "unit": 14,
   "lv": "B",
@@ -27977,8 +27976,8 @@
   "defs": [
    "公主"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "¡Aquí os parecéis a todas las princesas y a todos los príncipes azules!",
+  "exzh": "在这里，你们像所有的公主和所有的白马王子一样！",
   "book": 2,
   "unit": 14,
   "lv": "A",
@@ -28065,8 +28064,8 @@
   "defs": [
    "冒犯，伤害"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Con flores y con cantos recuerdo a los príncipes.",
+  "exzh": "我用鲜花和歌声纪念那些王子们。",
   "book": 2,
   "unit": 14,
   "lv": "A",
@@ -28123,8 +28122,8 @@
   "defs": [
    "女王，王后"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Hubo una época en que reyes y reinas dominaban el mundo.",
+  "exzh": "曾经有一个时代，国王和王后统治着世界。",
   "book": 2,
   "unit": 14,
   "lv": "C",
@@ -28282,8 +28281,8 @@
   "defs": [
    "报复，复仇"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Mataste a mi padre, y hoy tendré mi venganza.",
+  "exzh": "你杀了我父亲，今天我要报仇。",
   "book": 2,
   "unit": 14,
   "lv": "A",
@@ -28517,8 +28516,8 @@
   "defs": [
    "不了解"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Tom es un artista desconocido.",
+  "exzh": "汤姆是个默默无闻的艺术家。",
   "book": 2,
   "unit": 15,
   "lv": "R",
@@ -28799,8 +28798,8 @@
   "defs": [
    "发明"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "¿Sabes quién inventó el microscopio?",
+  "exzh": "你知道显微镜是谁发明的吗？",
   "book": 2,
   "unit": 15,
   "lv": "B",
@@ -29240,8 +29239,8 @@
   "defs": [
    "路线"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Él estaba acostumbrado a las rutas de Tokio.",
+  "exzh": "他习惯了东京的路线。",
   "book": 2,
   "unit": 15,
   "lv": "A",
@@ -29514,8 +29513,8 @@
   "defs": [
    "目前的"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "No estoy nada contento con mis ingresos actuales.",
+  "exzh": "我对目前的收入一点也不满意。",
   "book": 2,
   "unit": 16,
   "lv": "A",
@@ -29658,8 +29657,8 @@
   "defs": [
    "打猎"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "¿Dónde cazas esos conejos?",
+  "exzh": "你在哪里猎这些兔子？",
   "book": 2,
   "unit": 16,
   "lv": "A",
@@ -29722,8 +29721,8 @@
   "defs": [
    "在之列"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Tú podías contar hasta diez cuando tenías dos años.",
+  "exzh": "你两岁的时候就能数到十了。",
   "book": 2,
   "unit": 16,
   "lv": "R",
@@ -29869,8 +29868,8 @@
   "defs": [
    "建立"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Cuando estableció su propia empresa, él no tenía aún 20 años.",
+  "exzh": "他创办自己的公司时还不到二十岁。",
   "book": 2,
   "unit": 16,
   "lv": "B",
@@ -30041,8 +30040,8 @@
   "defs": [
    "尖说的，重音落在"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "El pan es hecho con harina y agua y en ocasiones se le agrega levadura.",
+  "exzh": "面包是用面粉和水做的，有时还会加酵母。",
   "book": 2,
   "unit": 16,
   "lv": "R",
@@ -30262,8 +30261,8 @@
   "defs": [
    "遭受，经受"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Por una cabeza tonta sufren las piernas.",
+  "exzh": "一失足成千古恨。（直译：因为一个愚蠢的脑袋，双腿跟着遭罪。）",
   "book": 2,
   "unit": 16,
   "lv": "A",
@@ -30403,8 +30402,8 @@
   "defs": [
    "战斗"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Ningún griego era mejor en batallas que Aquiles.",
+  "exzh": "在战斗中，没有哪个希腊人比阿喀琉斯更强。",
   "book": 3,
   "unit": 1,
   "lv": "A",
@@ -30603,8 +30602,8 @@
   "defs": [
    "绘画"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "¿Quieres que te dibuje algo?",
+  "exzh": "你要我给你画点什么吗？",
   "book": 3,
   "unit": 1,
   "lv": "B",
@@ -31058,8 +31057,8 @@
   "defs": [
    "宫殿"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Los ejemplos más antiguos de palacios chinos datan de 1200 A.E.C.",
+  "exzh": "中国宫殿最早的实例可追溯到公元前1200年。",
   "book": 3,
   "unit": 1,
   "lv": "A",
@@ -31329,8 +31328,8 @@
   "defs": [
    "责任"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "No puedes escapar de tus responsabilidades.",
+  "exzh": "你逃不掉自己的责任。",
   "book": 3,
   "unit": 1,
   "lv": "A",
@@ -31592,8 +31591,8 @@
   "defs": [
    "惩罚"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Yo creo que no merecía el castigo que obtuve.",
+  "exzh": "我觉得我受的惩罚是应得的。",
   "book": 3,
   "unit": 2,
   "lv": "A",
@@ -31669,8 +31668,8 @@
   "defs": [
    "penf.verb.觉察"
   ],
-  "ex": "Al fin me di cuenta de que estaba perdido.",
-  "exzh": "我终于意识到我迷路了。",
+  "ex": "No me di cuenta de que llevaba gafas.",
+  "exzh": "我没注意到他戴着眼镜。",
   "book": 3,
   "unit": 2,
   "lv": "B",
@@ -31856,8 +31855,8 @@
   "defs": [
    "贏家"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "El hombre que lance más lejos será el ganador.",
+  "exzh": "掷得最远的人就是获胜者。",
   "book": 3,
   "unit": 2,
   "lv": "A",
@@ -32237,8 +32236,8 @@
   "defs": [
    "变为"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Transformamos la leche en queso y manteca.",
+  "exzh": "我们把牛奶变成奶酪和黄油。",
   "book": 3,
   "unit": 2,
   "lv": "B",
@@ -32491,8 +32490,8 @@
   "defs": [
    "暴力"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "La tierra estaba corrompida en la presencia de Dios: la tierra se llenó de violencias.",
+  "exzh": "大地在神面前败坏了，地上充满了强暴。",
   "book": 3,
   "unit": 3,
   "lv": "A",
@@ -32612,8 +32611,8 @@
   "defs": [
    "圣经"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "No hay nada respecto a la Pascua en la Biblia.",
+  "exzh": "圣经里没有关于复活节的记载。",
   "book": 3,
   "unit": 4,
   "lv": "A",
@@ -32713,8 +32712,8 @@
   "defs": [
    "建造，建设"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "El puente fue construido por los romanos.",
+  "exzh": "这座桥是罗马人建的。",
   "book": 3,
   "unit": 4,
   "lv": "A",
@@ -32781,8 +32780,8 @@
    "沙漠",
    "荒无人烟的"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Los camellos son los barcos de los desiertos.",
+  "exzh": "骆驼是沙漠之舟。",
   "book": 3,
   "unit": 4,
   "lv": "A",
@@ -32901,8 +32900,8 @@
   "defs": [
    "失手，受挫"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "No puedo encontrar ningún fallo en su teoría.",
+  "exzh": "我在他的理论里找不到任何漏洞。",
   "book": 3,
   "unit": 4,
   "lv": "B",
@@ -32922,8 +32921,8 @@
   "defs": [
    "信仰"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "El niño tiene fe en que su madre cuide de él.",
+  "exzh": "孩子相信母亲会照顾他。",
   "book": 3,
   "unit": 4,
   "lv": "A",
@@ -33681,8 +33680,8 @@
   "defs": [
    "分割"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Seis dividido dos es tres.",
+  "exzh": "六除以二等于三。",
   "book": 3,
   "unit": 5,
   "lv": "B",
@@ -34055,8 +34054,8 @@
   "defs": [
    "领土"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "¿Y esto es territorio albanés o montenegrino?",
+  "exzh": "这算是阿尔巴尼亚的领土还是黑山的？",
   "book": 3,
   "unit": 5,
   "lv": "A",
@@ -34732,8 +34731,8 @@
   "defs": [
    "抵抗，抵御"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "El enemigo se rindió sin dar más resistencia.",
+  "exzh": "敌人没有再抵抗就投降了。",
   "book": 3,
   "unit": 6,
   "lv": "A",
@@ -34833,8 +34832,8 @@
   "defs": [
    "监视"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "No había nadie en la garita de vigilancia.",
+  "exzh": "岗亭里没有人。",
   "book": 3,
   "unit": 6,
   "lv": "A",
@@ -34966,8 +34965,8 @@
   "defs": [
    "圆形的"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "¿Cuál es la fórmula para calcular el área del círculo?",
+  "exzh": "计算圆面积的公式是什么？",
   "book": 3,
   "unit": 7,
   "lv": "B",
@@ -36018,8 +36017,8 @@
   "defs": [
    "岩石"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Había algo verde y pegajoso encima de la roca.",
+  "exzh": "岩石上有一团绿色黏糊糊的东西。",
   "book": 3,
   "unit": 8,
   "lv": "A",
@@ -36388,8 +36387,8 @@
    "好奇的",
    "奇怪的"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Cuanto más estudies, más curioso te volverás.",
+  "exzh": "你学得越多，就会越好奇。",
   "book": 3,
   "unit": 9,
   "lv": "A",
@@ -36622,8 +36621,8 @@
   "defs": [
    "船队，舰队"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "¿No sabías que el aceite flota sobre el agua?",
+  "exzh": "你不知道油会浮在水面上吗？",
   "book": 3,
   "unit": 9,
   "lv": "A",
@@ -37545,8 +37544,8 @@
   "defs": [
    "荣耀"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Nuestro equipo de fútbol se cubrió de gloria.",
+  "exzh": "我们的足球队赢得了荣誉。",
   "book": 3,
   "unit": 10,
   "lv": "A",
@@ -37817,8 +37816,8 @@
   "defs": [
    "解决，补救"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "La risa es el mejor remedio para el mal humor.",
+  "exzh": "笑是治疗坏心情最好的药。",
   "book": 3,
   "unit": 10,
   "lv": "R",
@@ -38063,8 +38062,8 @@
   "defs": [
    "珍视，看重"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Yo aprecio mi niñez.",
+  "exzh": "我珍惜我的童年。",
   "book": 3,
   "unit": 11,
   "lv": "B",
@@ -38309,8 +38308,8 @@
   "defs": [
    "事件，活动"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "No creo que vayáis a poder asistir al evento.",
+  "exzh": "我觉得你们没法参加这个活动了。",
   "book": 3,
   "unit": 11,
   "lv": "A",
@@ -38516,8 +38515,8 @@
   "defs": [
    "手段"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Lo que importa no son los medios sino el fin.",
+  "exzh": "重要的不是手段，而是目的。",
   "book": 3,
   "unit": 11,
   "lv": "A",
@@ -38960,8 +38959,8 @@
   "defs": [
    "比"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Edificaron un puente sobre el río.",
+  "exzh": "他们在河上建了一座桥。",
   "book": 3,
   "unit": 12,
   "lv": "R",
@@ -38983,8 +38982,8 @@
   "defs": [
    "新兴效率"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Tom está preparado para cualquier emergencia.",
+  "exzh": "汤姆对任何紧急情况都有准备。",
   "book": 3,
   "unit": 12,
   "lv": "A",
@@ -39223,10 +39222,10 @@
  },
  {
   "hw": "acabar por + in",
-  "pos_abbr": "f.",
-  "pos_full": "阴性名词",
+  "pos_abbr": "loc.",
+  "pos_full": "短语",
   "defs": [
-   "五最终"
+   "终于（acabar por + 原形）"
   ],
   "ex": "",
   "exzh": "",
@@ -39245,8 +39244,8 @@
    "比",
    "心itr."
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Esto es lo que queremos de ahora en adelante.",
+  "exzh": "从今往后，这就是我们想要的。",
   "book": 3,
   "unit": 13,
   "lv": "B",
@@ -40404,8 +40403,8 @@
    "装载",
    "负担"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "La caja se rompió debido al peso de la carga.",
+  "exzh": "箱子因为货物的重量而破了。",
   "book": 3,
   "unit": 15,
   "lv": "A",
@@ -40594,8 +40593,8 @@
   "defs": [
    "讲清楚"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Tampoco lo puedo explicar.",
+  "exzh": "我也解释不了。",
   "book": 3,
   "unit": 15,
   "lv": "R",
@@ -40681,8 +40680,8 @@
   "defs": [
    "天才的"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Tengo unos amigos geniales.",
+  "exzh": "我有几个很棒的朋友。",
   "book": 3,
   "unit": 15,
   "lv": "C",
@@ -40961,8 +40960,8 @@
    "指名点姓",
    "任命"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Tengo un perro. Es negro y su nombre es Tiki.",
+  "exzh": "我有一条狗，是黑色的，名字叫蒂基。",
   "book": 3,
   "unit": 15,
   "lv": "B",
@@ -41723,8 +41722,8 @@
   "defs": [
    "吹嘘，炫耀"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Las personas reservadas no alardean de sus logros en público.",
+  "exzh": "谦虚的人不会当众夸耀自己的成就。",
   "book": 4,
   "unit": 1,
   "lv": "B",
@@ -42830,8 +42829,8 @@
   "defs": [
    "操纵，启动"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Ramificación e integración son dos acciones básicas del control de versiones.",
+  "exzh": "分支与合并是版本控制的两个基本操作。",
   "book": 4,
   "unit": 4,
   "lv": "R",
@@ -43029,8 +43028,8 @@
   "defs": [
    "统帅"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "El comandante sucumbió a la fiebre amarilla.",
+  "exzh": "这位指挥官死于黄热病。",
   "book": 4,
   "unit": 4,
   "lv": "A",
@@ -43266,8 +43265,8 @@
   "defs": [
    "感受"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Tres meses es poco tiempo para terminar el experimento.",
+  "exzh": "三个月对于完成这个实验来说太短了。",
   "book": 4,
   "unit": 4,
   "lv": "B",
@@ -43609,8 +43608,8 @@
   "defs": [
    "屏幕"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Todos los ojos se dirigieron a las pantallas.",
+  "exzh": "所有人的目光都转向了屏幕。",
   "book": 4,
   "unit": 4,
   "lv": "A",
@@ -45055,8 +45054,8 @@
   "defs": [
    "崇拜"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Adoro las flores.",
+  "exzh": "我很喜欢花。",
   "book": 4,
   "unit": 6,
   "lv": "B",
@@ -45183,8 +45182,8 @@
   "defs": [
    "约会"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Ella rara vez llega tarde a las citas.",
+  "exzh": "她很少约会迟到。",
   "book": 4,
   "unit": 6,
   "lv": "B",
@@ -45439,8 +45438,8 @@
   "defs": [
    "蜂蜜"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Fuimos a Australia para nuestra luna de miel.",
+  "exzh": "我们去了澳大利亚度蜜月。",
   "book": 4,
   "unit": 6,
   "lv": "A",
@@ -45810,8 +45809,8 @@
   "defs": [
    "校官"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Todos los amigos de mi abuelo eran coroneles del ejército de tierra.",
+  "exzh": "我祖父的朋友都是陆军的校官。",
   "book": 4,
   "unit": 7,
   "lv": "C",
@@ -46019,8 +46018,8 @@
    "正义",
    "法律"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "La justicia es cómo el amor se ve en público.",
+  "exzh": "正义就是爱在众人面前的样子。",
   "book": 4,
   "unit": 7,
   "lv": "A",
@@ -46594,8 +46593,8 @@
   "defs": [
    "使复杂化"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "En esta ciudad, es muy complicado coger un taxi.",
+  "exzh": "在这座城市，打车非常麻烦。",
   "book": 4,
   "unit": 8,
   "lv": "B",
@@ -46649,8 +46648,8 @@
   "defs": [
    "出境移民"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "¿Cuándo emigró a nuestro país?",
+  "exzh": "他什么时候移民到我们国家的？",
   "book": 4,
   "unit": 8,
   "lv": "R",
@@ -47396,8 +47395,8 @@
   "defs": [
    "细节"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Tom no conocía los detalles del plan de Mary.",
+  "exzh": "汤姆不知道玛丽计划的具体细节。",
   "book": 4,
   "unit": 9,
   "lv": "A",
@@ -47837,8 +47836,8 @@
   "defs": [
    "小亚细亚"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "La población de Europa es menor que la de Asia.",
+  "exzh": "欧洲的人口比亚洲少。",
   "book": 4,
   "unit": 10,
   "lv": "B",
@@ -47908,8 +47907,8 @@
   "defs": [
    "确实，的确"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Ciertamente Tom no merecía la pena que obtuvo.",
+  "exzh": "汤姆确实不配得到他的痛苦。",
   "book": 4,
   "unit": 10,
   "lv": "A",
@@ -48946,8 +48945,8 @@
   "defs": [
    "使陷入"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Ellos hundieron diez naves enemigas.",
+  "exzh": "他们击沉了十艘敌舰。",
   "book": 4,
   "unit": 11,
   "lv": "B",
@@ -49172,8 +49171,8 @@
   "defs": [
    "估价"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Él valoró el consejo del profesor.",
+  "exzh": "他重视老师的建议。",
   "book": 4,
   "unit": 11,
   "lv": "B",
@@ -49258,8 +49257,8 @@
   "defs": [
    "危机"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "La crisis afectó directamente a nuestro país.",
+  "exzh": "这场危机直接影响到了我们的国家。",
   "book": 4,
   "unit": 13,
   "lv": "A",
@@ -49274,8 +49273,8 @@
   "defs": [
    "证实，证明"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Demos un paseo por el parque.",
+  "exzh": "我们去公园散散步吧。",
   "book": 4,
   "unit": 13,
   "lv": "C",
@@ -50190,8 +50189,8 @@
   "defs": [
    "模仿"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Él imitó las obras de Van Gogh.",
+  "exzh": "他模仿了梵高的作品。",
   "book": 4,
   "unit": 15,
   "lv": "B",
@@ -50653,8 +50652,8 @@
   "defs": [
    "治疗"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Estoy recibiendo tratamiento en el hospital.",
+  "exzh": "我正在医院接受治疗。",
   "book": 4,
   "unit": 15,
   "lv": "A",
@@ -50669,8 +50668,8 @@
   "defs": [
    "小麦田"
   ],
-  "ex": "1922, Federico García Lorca, Primeras Canciones, Cuatro Baladas Amarillas, I",
-  "exzh": "1922 年，费德里科·加西亚·洛尔卡，第一首歌，四首黄色歌谣，I",
+  "ex": "El trigal se extendía hasta el horizonte.",
+  "exzh": "麦田一直延伸到地平线。",
   "book": 4,
   "unit": 15,
   "lv": "R",
@@ -50893,8 +50892,8 @@
   "defs": [
    "代码，语码"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "¿Cuál es tu juego de código abierto favorito?",
+  "exzh": "你最喜欢的开源项目是什么？",
   "book": 4,
   "unit": 16,
   "lv": "A",
@@ -51167,8 +51166,8 @@
    "刹（车）",
    "抑制，约束"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "El pedal del freno no va bien.",
+  "exzh": "刹车踏板不太好使。",
   "book": 4,
   "unit": 16,
   "lv": "B",
@@ -51237,8 +51236,8 @@
   "defs": [
    "使相同，使一致"
   ],
-  "ex": "",
-  "exzh": "",
+  "ex": "Odio cuando las mujeres dicen que \"los hombres son todos iguales\".",
+  "exzh": "我讨厌女人说“男人都一样”。",
   "book": 4,
   "unit": 16,
   "lv": "B",
